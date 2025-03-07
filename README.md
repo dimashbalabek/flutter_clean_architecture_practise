@@ -1,16 +1,14 @@
 # flutter_clean_architecture_practise
 
-A new Flutter project.
+Flutter Clean Architecture Practice
 
-## Getting Started
+This project is created for learning and practicing Clean Architecture in Flutter. Currently, Clean Architecture is implemented only for the Login and Sign Up pages.
 
-This project is a starting point for a Flutter application.
+🚀 About the Project
 
-A few resources to get you started if this is your first Flutter project:
+This project serves as a training ground for mastering the principles of Clean Architecture in Flutter. It implements fundamental principles of responsibility separation, layer usage (Data, Domain, Presentation), and dependency management.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Screens:
+![Image](https://github.com/user-attachments/assets/8958cc8c-d0b1-4a56-a5b7-97415ca1f941)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](https://github.com/user-attachments/assets/99e393dd-b323-452d-ae63-97aa17f9df45)
